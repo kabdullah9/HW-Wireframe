@@ -1,0 +1,65 @@
+body{
+text-align: center;
+background: grey;
+width: 960px;
+margin: 0 auto;
+}
+
+header, nav, footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #ebebeb;
+}
+
+nav {
+    margin-bottom: 10px;
+}
+
+header {
+    margin-bottom: 10px;
+}
+
+
+
+#left {
+    margin-bottom: 10px;
+    margin-top: 10px;
+    width: 500px;
+    height: 225px;
+    text-align: center;
+    background-color: #ebebeb;
+    float: left;
+}
+    
+#article {
+    text-align: center;
+    background: grey;
+    width: 425;
+    height: 175;
+    margin: 5 auto;
+
+}
+
+h1, p {
+    background-color: #ebebeb;
+    height: 50px;
+    width: 400px;
+    text-align: center;
+    margin: 10 auto;
+}
+
+#right {
+    margin-bottom: 10px;
+    margin-top: 10px;
+    width: 400px;
+    height: 225px;
+    text-align: center;
+    float: right;
+    background-color: #ebebeb;
+
+}
+
+#bottom{
+text-align: center;
+clear: both;
+}
